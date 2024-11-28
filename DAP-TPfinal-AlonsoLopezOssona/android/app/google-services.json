@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934368844631",
+    "project_id": "dap-tpfinal-alonsolopezo-d5b39",
+    "storage_bucket": "dap-tpfinal-alonsolopezo-d5b39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934368844631:android:a8862a16fd9c6f52c2fc12",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkcPvi9EWPKt-W2JYbj4ZyXDo67InJBNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
